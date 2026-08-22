@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+financial_crimes_governance_logs.csv
+.
 # Distribution / packaging
 .Python
 build/
