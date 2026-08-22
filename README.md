@@ -17,13 +17,13 @@ An interactive Power BI dashboard designed to analyze Anti-Money Laundering (AML
 ## Dashboard Previews
 
 ### 1. Executive Summary
-*(Insert screenshot of Tab 1 here by dragging the image into this edit box)*
+![alt text](<Executive Summary.png>)
 
 ### 2. Risk & Root Cause Analysis
-*(Insert screenshot of Tab 2 here by dragging the image into this edit box)*
+![alt text](<Risk & Root Cause Analysis.png>)
 
 ### 3. Remediation Tracker
-*(Insert screenshot of Tab 3 here by dragging the image into this edit box)*
+![alt text](<Remediation Tracker.png>)
 
 ## How to Run
 1. Run `data_generator.py` to generate a fresh batch of synthetic governance logs.
